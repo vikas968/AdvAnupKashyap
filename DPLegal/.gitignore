@@ -1,0 +1,5 @@
+db.sqlite3
+/DPLegal/__pycache__/
+/DPMain/__pycache__/
+/DPMain/migrations/
+/assets/
